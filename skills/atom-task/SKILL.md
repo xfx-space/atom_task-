@@ -103,6 +103,7 @@ User Task
 1. instruction 自包含，isolated 执行
 2. 输出可用机械规则验证
 3. 原子互相独立
+4. ⭐ 文件操作 atom 必须指定编码，verify_rules 必须包含 probe:encoding UTF-8
 
 输出 JSON Array:
 [{ "id", "type", "executor", "instruction", "input", "verify_rules", "max_turns", "work_dir" }]
