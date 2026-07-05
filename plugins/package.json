@@ -1,0 +1,9 @@
+{
+  "name": "atom-harness",
+  "version": "0.1.0",
+  "description": "Atom task harness safety hooks: intercept dangerous exec patterns",
+  "main": "plugin.mjs",
+  "openclaw": {
+    "extensions": ["./plugin.mjs"]
+  }
+}

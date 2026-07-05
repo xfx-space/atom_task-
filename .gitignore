@@ -1,0 +1,26 @@
+# 项目自身文件
+xfxking_information/
+memory/
+.openclaw/
+.openclaw/**/*
+AGENTS.md
+DREAMS.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+openclaw-workspace-state.json
+mcp_summary.json
+quality_check_report.json
+stock_prediction_analysis.json
+
+# 运行日志
+atom_logs/
+
+# 构建/依赖
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
